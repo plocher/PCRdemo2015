@@ -1,7 +1,7 @@
 # PCRdemo2015
 ## License: MIT License
 
-Demo code for PRC1025 demo board
+Demo code for [PCR-Badge-2015 demo board](https://github.com/plocher/PCR-Badge-2015)
 
 Includes LEDs (R/R for Xing, RYG for a signal), pushbuttons, 
 a servo and an LCD.
